@@ -1,0 +1,44 @@
+install.packages("rmarkdown")
+install.packages("knitr")
+library(rmarkdown)
+library(knitr)
+#R script to create a vector, V1, containing 5 random numbers in the
+#range 1 to 10 without repetition and give names to each element of
+#the vector
+{r}
+v = sample(1:10, 5, replace=FALSE)
+v
+names(v)=c("a","b","c","d","e")
+v
+
+
+vector
+{r}
+x<-c(1:10)
+x
+
+
+{r}
+searc<-function(v,n)
+{
+  for(i in 1:length(v)){
+    if((v[i] == n)){ print(paste('Found at',i))} else
+    {print('Not Found')
+      break}
+  }
+} 
+
+
+
+Bollywood
+{r}
+print(getwd())
+setwd("C:/Users/RAVI SINGH/Downloads")
+b=read.csv("bollywood.csv - bollywood.csv.csv")
+print("PRINT DATASET")
+print(b)
+
+print("MAX COLLECTION MOVIE ")
+print(max(b$Tcollection))
+w=which.max(b$Tcollection)
+print(b[w,])

@@ -1,0 +1,184 @@
+   animal_name hair feathers eggs milk airborne aquatic predator toothed backbone
+1     aardvark    1        0    0    1        0       0        1       1        1
+2     antelope    1        0    0    1        0       0        0       1        1
+3         bass    0        0    1    0        0       1        1       1        1
+4         bear    1        0    0    1        0       0        1       1        1
+5         boar    1        0    0    1        0       0        1       1        1
+6      buffalo    1        0    0    1        0       0        0       1        1
+7         calf    1        0    0    1        0       0        0       1        1
+8         carp    0        0    1    0        0       1        0       1        1
+9      catfish    0        0    1    0        0       1        1       1        1
+10        cavy    1        0    0    1        0       0        0       1        1
+11     cheetah    1        0    0    1        0       0        1       1        1
+12     chicken    0        1    1    0        1       0        0       0        1
+13        chub    0        0    1    0        0       1        1       1        1
+14        clam    0        0    1    0        0       0        1       0        0
+15        crab    0        0    1    0        0       1        1       0        0
+16    crayfish    0        0    1    0        0       1        1       0        0
+17        crow    0        1    1    0        1       0        1       0        1
+18        deer    1        0    0    1        0       0        0       1        1
+19     dogfish    0        0    1    0        0       1        1       1        1
+20     dolphin    0        0    0    1        0       1        1       1        1
+21        dove    0        1    1    0        1       0        0       0        1
+22        duck    0        1    1    0        1       1        0       0        1
+23    elephant    1        0    0    1        0       0        0       1        1
+24    flamingo    0        1    1    0        1       0        0       0        1
+25        flea    0        0    1    0        0       0        0       0        0
+26        frog    0        0    1    0        0       1        1       1        1
+27        frog    0        0    1    0        0       1        1       1        1
+28    fruitbat    1        0    0    1        1       0        0       1        1
+29     giraffe    1        0    0    1        0       0        0       1        1
+31        gnat    0        0    1    0        1       0        0       0        0
+32        goat    1        0    0    1        0       0        0       1        1
+33     gorilla    1        0    0    1        0       0        0       1        1
+34        gull    0        1    1    0        1       1        1       0        1
+35     haddock    0        0    1    0        0       1        0       1        1
+36     hamster    1        0    0    1        0       0        0       1        1
+37        hare    1        0    0    1        0       0        0       1        1
+38        hawk    0        1    1    0        1       0        1       0        1
+39     herring    0        0    1    0        0       1        1       1        1
+40    honeybee    1        0    1    0        1       0        0       0        0
+41    housefly    1        0    1    0        1       0        0       0        0
+42        kiwi    0        1    1    0        0       0        1       0        1
+43    ladybird    0        0    1    0        1       0        1       0        0
+44        lark    0        1    1    0        1       0        0       0        1
+45     leopard    1        0    0    1        0       0        1       1        1
+46        lion    1        0    0    1        0       0        1       1        1
+47     lobster    0        0    1    0        0       1        1       0        0
+48        lynx    1        0    0    1        0       0        1       1        1
+49        mink    1        0    0    1        0       1        1       1        1
+50        mole    1        0    0    1        0       0        1       1        1
+51    mongoose    1        0    0    1        0       0        1       1        1
+52        moth    1        0    1    0        1       0        0       0        0
+53        newt    0        0    1    0        0       1        1       1        1
+54     octopus    0        0    1    0        0       1        1       0        0
+55     opossum    1        0    0    1        0       0        1       1        1
+56        oryx    1        0    0    1        0       0        0       1        1
+57     ostrich    0        1    1    0        0       0        0       0        1
+58    parakeet    0        1    1    0        1       0        0       0        1
+59     penguin    0        1    1    0        0       1        1       0        1
+60    pheasant    0        1    1    0        1       0        0       0        1
+61        pike    0        0    1    0        0       1        1       1        1
+62     piranha    0        0    1    0        0       1        1       1        1
+63    pitviper    0        0    1    0        0       0        1       1        1
+   breathes venomous fins legs tail domestic
+1         1        0    0    4    0        0
+2         1        0    0    4    1        0
+3         0        0    1    0    1        0
+4         1        0    0    4    0        0
+5         1        0    0    4    1        0
+6         1        0    0    4    1        0
+7         1        0    0    4    1        1
+8         0        0    1    0    1        1
+9         0        0    1    0    1        0
+10        1        0    0    4    0        1
+11        1        0    0    4    1        0
+12        1        0    0    2    1        1
+13        0        0    1    0    1        0
+14        0        0    0    0    0        0
+15        0        0    0    4    0        0
+16        0        0    0    6    0        0
+17        1        0    0    2    1        0
+18        1        0    0    4    1        0
+19        0        0    1    0    1        0
+20        1        0    1    0    1        0
+21        1        0    0    2    1        1
+22        1        0    0    2    1        0
+23        1        0    0    4    1        0
+24        1        0    0    2    1        0
+25        1        0    0    6    0        0
+26        1        0    0    4    0        0
+27        1        1    0    4    0        0
+28        1        0    0    2    1        0
+29        1        0    0    4    1        0
+31        1        0    0    6    0        0
+32        1        0    0    4    1        1
+33        1        0    0    2    0        0
+34        1        0    0    2    1        0
+35        0        0    1    0    1        0
+36        1        0    0    4    1        1
+37        1        0    0    4    1        0
+38        1        0    0    2    1        0
+39        0        0    1    0    1        0
+40        1        1    0    6    0        1
+41        1        0    0    6    0        0
+42        1        0    0    2    1        0
+43        1        0    0    6    0        0
+44        1        0    0    2    1        0
+45        1        0    0    4    1        0
+46        1        0    0    4    1        0
+47        0        0    0    6    0        0
+48        1        0    0    4    1        0
+49        1        0    0    4    1        0
+50        1        0    0    4    1        0
+51        1        0    0    4    1        0
+52        1        0    0    6    0        0
+53        1        0    0    4    1        0
+54        0        0    0    8    0        0
+55        1        0    0    4    1        0
+56        1        0    0    4    1        0
+57        1        0    0    2    1        0
+58        1        0    0    2    1        1
+59        1        0    0    2    1        0
+60        1        0    0    2    1        0
+61        0        0    1    0    1        0
+62        0        0    1    0    1        0
+63        1        1    0    0    1        0
+ [ reached 'max' / getOption("max.print") -- omitted 38 rows ]
+[1] "Total number of missing values (NA) in the zoo."
+[1] 0
+[1] "Total number of animals which both milks and lay eggs."
+[1] 3
+[1] "Name of animals which both milks and lay eggs."
+[1] "polecat"  "seahorse" "seawasp" 
+[1] "Total number of animals which are predators."
+[1] 56
+[1] "Name of animals which are predators(need to be supervised and visitors should not come near)."
+ [1] "aardvark" "bass"     "bear"     "boar"     "catfish"  "cheetah"  "chub"    
+ [8] "clam"     "crab"     "crayfish" "crow"     "dogfish"  "dolphin"  "frog"    
+[15] "frog"     "gnat"     "haddock"  "herring"  "honeybee" "ladybird" "lark"    
+[22] "lion"     "lobster"  "lynx"     "mink"     "mole"     "mongoose" "moth"    
+[29] "octopus"  "opossum"  "oryx"     "pheasant" "piranha"  "pitviper" "platypus"
+[36] "polecat"  "pony"     "puma"     "pussycat" "raccoon"  "reindeer" "scorpion"
+[43] "seahorse" "sealion"  "seasnake" "seawasp"  "skimmer"  "skua"     "slowworm"
+[50] "slug"     "stingray" "swan"     "tuna"     "vampire"  "wallaby"  "worm"    
+[1] "Total number of aquatic animals which are predators(need to be supervised and warnings must be issued to visitors)."
+[1] 27
+[1] "Aquatic animals which are predators(need to be supervised and warnings must be issued to visitors)."
+ [1] "aardvark" "bear"     "boar"     "cheetah"  "clam"     "crow"     "gnat"    
+ [8] "herring"  "ladybird" "lark"     "lion"     "lobster"  "mink"     "mongoose"
+[15] "moth"     "oryx"     "platypus" "pony"     "pussycat" "raccoon"  "reindeer"
+[22] "scorpion" "seahorse" "slug"     "tuna"     "wallaby"  "worm"    
+[1] "Total number of animals which are airborne(need to have cages according to their size."
+[1] 24
+[1] "Name of animals which are airborne(need to have cages according to their size."
+ [1] "chicken"  "crow"     "dove"     "duck"     "flamingo" "fruitbat" "goat"    
+ [8] "haddock"  "herring"  "housefly" "kiwi"     "lark"     "leopard"  "newt"    
+[15] "penguin"  "pike"     "skua"     "slowworm" "squirrel" "termite"  "vole"    
+[22] "wallaby"  "wolf"     NA        
+[1] "Total number of animals which are predators(need to have both aquatic aerial equiped cages)."
+[1] 5
+[1] "Animals which are predators(need to have both aquatic aerial equiped cages)."
+[1] "duck"     "haddock"  "skua"     "slowworm" "termite" 
+[1] "Total number of animals which require an Aquarium."
+[1] 13
+[1] "Name of animals which require an Aquarium."
+ [1] "bass"     "carp"     "catfish"  "chub"     "dogfish"  "hamster"  "honeybee"
+ [8] "piranha"  "pitviper" "seal"     "sparrow"  "swan"     "vampire" 
+[1] "Total number of animals which require an aquatic habitat but require an open roof as they have to come to surface to breath."
+[1] 4
+[1] "Name of animals which require an aquatic habitat but require an open roof as they have to come to surface to breath."
+[1] "dolphin"  "puma"     "sealion"  "seasnake"
+[1] "Total number of animals which are poisnous(need to be supervised and warnings must be issued to visitors)."
+[1] 4
+[1] "Animals which are poisnous(need to be supervised and warnings must be issued to visitors)."
+[1] "housefly" "platypus" "seahorse" "wolf"    
+[1] "Total number of animals which are poisnous(need to be supervised(experts required) and warnings must be issued to visitors)."
+[1] 4
+[1] "Animals which are poisnous(need to be supervised(experts required) and warnings must be issued to visitors)."
+[1] "frog"    "seawasp" "skimmer" "swan"   
+[1] "Total number of animals which are domestic(need to be kept away from wild animals)"
+[1] 13
+[1] "Animals which are domestic(need to be kept away from wild animals)"
+ [1] "calf"     "carp"     "cavy"     "chicken"  "dove"     "gnat"     "gorilla" 
+ [8] "hare"     "housefly" "penguin"  "porpoise" "raccoon"  "rhea"    
